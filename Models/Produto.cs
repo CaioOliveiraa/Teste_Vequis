@@ -7,7 +7,7 @@ public class Produto
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public int Id { get; set; } //inicia em 231
+    public int Id { get; set; }
 
     public string Nome { get; set; } = string.Empty;
     public decimal Valor { get; set; }

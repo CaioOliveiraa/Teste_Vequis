@@ -1,0 +1,30 @@
+<NotaFiscal>
+  <Cliente>
+    <Nome>Maria Oliveira</Nome>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <Pais>Brasil</Pais>
+  </Cliente>
+  <Produtos>
+    <Produto>
+      <Nome>Notebook Dell</Nome>
+      <Valor>4500.00</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Teclado Mecânico</Nome>
+      <Valor>350.90</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Headset Gamer</Nome>
+      <Valor>275.50</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Mouse Gamer</Nome>
+      <Valor>199.99</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Suporte de Notebook</Nome>
+      <Valor>139.90</Valor>
+    </Produto>
+  </Produtos>
+</NotaFiscal>

@@ -1,0 +1,30 @@
+<NotaFiscal>
+  <Cliente>
+    <Nome>Pedro Santos</Nome>
+    <Cidade>Curitiba</Cidade>
+    <Estado>PR</Estado>
+    <Pais>Brasil</Pais>
+  </Cliente>
+  <Produtos>
+    <Produto>
+      <Nome>Monitor 27 Polegadas</Nome>
+      <Valor>1199.99</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Mouse Gamer</Nome>
+      <Valor>199.99</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Mousepad XL</Nome>
+      <Valor>59.90</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Hub USB</Nome>
+      <Valor>89.90</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Webcam HD</Nome>
+      <Valor>250.00</Valor>
+    </Produto>
+  </Produtos>
+</NotaFiscal>

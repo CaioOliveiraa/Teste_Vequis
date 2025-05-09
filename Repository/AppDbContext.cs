@@ -1,7 +1,7 @@
 using LeitorNotasFiscais.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace LeitorNotasFiscais.Data;
+namespace LeitorNotasFiscais.Repository;
 
 public class AppDbContext : DbContext
 {

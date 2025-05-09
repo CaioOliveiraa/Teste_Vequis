@@ -1,0 +1,30 @@
+<NotaFiscal>
+  <Cliente>
+    <Nome>João Silva</Nome>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <Pais>Brasil</Pais>
+  </Cliente>
+  <Produtos>
+    <Produto>
+      <Nome>Teclado Mecânico</Nome>
+      <Valor>350.90</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Mouse Gamer</Nome>
+      <Valor>199.99</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Monitor 24 Polegadas</Nome>
+      <Valor>899.00</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Mouse Gamer</Nome>
+      <Valor>199.99</Valor>
+    </Produto>
+    <Produto>
+      <Nome>Webcam HD</Nome>
+      <Valor>250.00</Valor>
+    </Produto>
+  </Produtos>
+</NotaFiscal>

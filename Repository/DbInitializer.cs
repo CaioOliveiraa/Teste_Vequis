@@ -1,12 +1,15 @@
 using LeitorNotasFiscais.Models;
 
-namespace LeitorNotasFiscais.Data;
+namespace LeitorNotasFiscais.Repository;
 
 public static class DbInitializer
 {
     public static void Seed(AppDbContext context)
     {
         context.Database.EnsureCreated();
+
+        // utilizei um registro 'dummy' com ID 99/230 para forçar o SQLite a iniciar o autoincremento em 100/231,
+        // Pois o SQLite não suporta sequences.
 
         if (!context.Clientes.Any())
         {

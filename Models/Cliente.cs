@@ -7,7 +7,7 @@ public class Cliente
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public int Id { get; set; } //inicia em 100
+    public int Id { get; set; }
     public string Nome { get; set; } = string.Empty;
     public string Cidade { get; set; } = string.Empty;
     public string Estado { get; set; } = string.Empty;
